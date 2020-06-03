@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(21, 24, 28);
+  color: white;
+}
+
+.welcome {
+  text-align: center;
+}
+.welcome h4 {
+  color: rgb(65, 252, 254);
+}
+
+.form-container,
+.spinner {
+  width: 50%;
+  margin: 5rem auto;
+}
+.spinner {
+  text-align: center;
+}
+.submit-btn {
+  background-color: rgb(65, 252, 254);
+  color: black;
+}
