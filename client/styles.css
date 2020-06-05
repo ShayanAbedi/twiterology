@@ -22,3 +22,12 @@ body {
   background-color: rgb(65, 252, 254);
   color: black;
 }
+
+.messages {
+  margin: 12rem 12rem 12rem 12rem;
+  text-align: center;
+}
+.messages > div {
+  background-color: rgba(122, 11, 227, 0.399);
+  margin: 2rem 0;
+}
